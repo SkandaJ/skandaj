@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Skanda</h1>
-<h3 align="center">A passionate Software developer from India</h3>
 
 - 🔭 I’m currently working on **AI/ML**
 
